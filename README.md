@@ -1,1 +1,1 @@
-# Krutaja
+# Ne krutaja
